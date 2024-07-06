@@ -1,4 +1,4 @@
-# Stream-Harmony
+# Stream-Harmony (ongoing project)
 
 Project Overview: 
  
