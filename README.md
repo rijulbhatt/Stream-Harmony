@@ -14,24 +14,28 @@ digital streaming engagement.
 
 Objectives:
 
-Real-Time Comment Scoring System: 
+# Real-Time Comment Scoring System: 
+
 o Design and implement a system for live comment analysis using NLP techniques. 
 o Train a machine learning model to classify comments based on criteria like 
 sentiment, relevance, and toxicity. 
 o Generate scores for each comment in real time. 
 
-Streamer Control: 
+# Streamer Control: 
+
 o Enable streamers to set a minimum score threshold for comment participation. 
 o Integrate the scoring system into the streaming platform to automatically restrict 
 commenting privileges for users below the threshold. 
 
-Fair and Unbiased Moderation: 
+# Fair and Unbiased Moderation: 
+
 o Implement robust data collection and training methods to mitigate potential 
 biases. 
 o Monitor and address bias drift over time through regular re-evaluation and 
 adjustments. 
 
-Transparency and User Control: 
+# Transparency and User Control: 
+
 o Inform users about the system's purpose, data collection practices, and 
 consequences of low scores. 
 o Provide users with mechanisms to appeal scores and request manual review by 
