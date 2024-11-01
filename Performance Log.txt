@@ -1,0 +1,16 @@
+
+1.Bidirectional LSTM
+
+Precision = 0.9337626695632935, 
+Recall = 0.9103139042854309,
+Accuracy = 0.9127382040023804
+
+2.Bidirectional GRU
+
+Precision = 0.8666293025016785,
+Recall = 0.8523008823394775,
+Accuracy = 0.7931727170944214
+
+3. Using Bert 
+
+Shortcoming -  The Tokenization takes longer slowing down real time predictions
